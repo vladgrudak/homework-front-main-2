@@ -7,11 +7,11 @@
 }
 
 .friendImageAndText img {
-
+    height: 48px;
 }
 
 .friendText {
-
+    background-color: #0066CC;
 }
 
 .friendText:after {

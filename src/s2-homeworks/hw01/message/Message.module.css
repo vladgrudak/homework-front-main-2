@@ -1,17 +1,17 @@
 .message {
-
+    text-align: right;
 }
 
 .imageAndText {
 
 }
 
-.imageAndText img {
-
+.imageAndText img{
+    height: 48px;
 }
 
 .text {
-
+    background-color: #0066CC;
 }
 
 .text:after {
