@@ -1,11 +1,17 @@
 .spanBlock {
+    display: flex;
+    gap: 15px;
+    flex-direction: row;
 }
 
 .span {
+    color: #0066CC;
 }
 
 .input {
+
 }
 
 .pen {
+
 }
