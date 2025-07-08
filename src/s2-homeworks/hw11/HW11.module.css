@@ -2,7 +2,10 @@
 }
 
 .wrapper {
+    display: flex;
+    gap: 15px;
 }
 
 .number {
+    display: inline-block;
 }
